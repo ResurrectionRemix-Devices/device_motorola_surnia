@@ -32,7 +32,7 @@
   {
     "repository": "aosp4surnia/android_kernel_motorola_msm8916",
     "target_path": "kernel/motorola/msm8916",
-    "branch": "pi",
+    "branch": "pie-kornelio",
     "remote": "github"
   }
 ]
